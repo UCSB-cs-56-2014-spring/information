@@ -1,9 +1,5 @@
-information
-===========
-
-General course information
-
 CMPSC 56: ADVANCED APPLICATIONS PROGRAMMING
+===========
 
 Prerequisites
 
