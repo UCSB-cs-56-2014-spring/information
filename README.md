@@ -1,4 +1,4 @@
-CMPSC 56: ADVANCED APPLICATIONS PROGRAMMING
+CMPSC 56:  Advanced Applications Programming
 ===========
 
 Prerequisites
