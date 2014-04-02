@@ -1,0 +1,4 @@
+information
+===========
+
+General course information
