@@ -25,7 +25,7 @@ Students present their solutions to programming problems on both homework & exam
 
 ## Workload
 
-This is a 4-credit course at UCSB. You are expected to finish this course in 10 weeks, working intelligently for an average of 10 hours/week.
+This is a 4-credit course at UCSB. You are expected to finish this course in 10 weeks, working *intelligently* for an average of 10 hours/week.
 
 ## Discussions & Lectures
 
