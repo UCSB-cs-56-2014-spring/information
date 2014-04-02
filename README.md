@@ -30,7 +30,9 @@ This is a 4-credit course at UCSB. You are expected to finish this course in 10 
 ## Discussions & Lectures
 
 Lecture	PHELPS 2524	Monday, Wednesday	9:30 - 10:45
+
 Discussion	PHELPS 3525	Wednesday	14:00 - 14:50
+
 Please email Peter Cappello comments about what you would like to see in future lectures, so that he can better accommodate your wishes.
 
 ## Required Text
