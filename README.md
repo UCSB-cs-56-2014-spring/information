@@ -5,11 +5,11 @@ CS 56:  Advanced Applications Programming
 
 Computer Science 24 with a grade of C or better.
 
-Recommended preparation
+## Recommended preparation
 
 Students are encouraged to complete Computer Science 32 prior to enrolling in Computer Science 56.
 
-Catalog description
+## Catalog description
 
 Advanced application programming using a high-level, virtual-machine-based language. Topics include generic programming, exception handling, programming language implementation; automatic memory management, & application development, management, & maintenance tools; event handling, concurrency & threading, & advanced library use.
 
@@ -17,25 +17,25 @@ As an instructor, my goal is to encourage you to become a more self-directed lea
 
 I also have some suggestions for succeeding in this course.
 
-Written Communication
+## Written Communication
 
 Students present their solutions to programming problems on both homework & examinations. Precision, clarity, & readability are the coin of this communication realm.
 
-Workload
+## Workload
 
 This is a 4-credit course at UCSB. You are expected to finish this course in 10 weeks, working intelligently for an average of 10 hours/week.
 
-Discussions & Lectures
+## Discussions & Lectures
 
 Lecture	PHELPS 2524	Monday, Wednesday	9:30 - 10:45
 Discussion	PHELPS 3525	Wednesday	14:00 - 14:50
 Please email Peter Cappello comments about what you would like to see in future lectures, so that he can better accommodate your wishes.
 
-Required Text
+## Required Text
 
 Java: How to Program, 9th edition, Paul J. Deitel and Harvey M. Deitel, Pearson (Prentice-Hall), ISBN-13 978-0-13-257566-9 2012.
 
-Office Hours
+## Office Hours
 
 Pete Cappello	cappello@cs.ucsb.edu	Harold Frank Hall, 2157	Monday: 13:30 - 14:30
 Tuesday: 13:30 - 14:30
