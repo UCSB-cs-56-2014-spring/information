@@ -13,6 +13,8 @@ Students are encouraged to complete Computer Science 32 prior to enrolling in Co
 
 Advanced application programming using a high-level, virtual-machine-based language. Topics include generic programming, exception handling, programming language implementation; automatic memory management, & application development, management, & maintenance tools; event handling, concurrency & threading, & advanced library use.
 
+======
+
 As an instructor, my goal is to encourage you to become a more self-directed learner. I believe that the future belongs to those who enjoy learning things for themselves. I consequently hope that you explore some additional topics that are of personal interest. Self-directed learning, like any skill, takes practice. Persevere. Self-directed does not mean that you cannot talk to people. It means that you take personal responsibility for organizing & executing—in a word, directing—your own learning plan. I would love to discuss any plans you may have or wish to formulate for self-directed learning.
 
 I also have some suggestions for succeeding in this course.
