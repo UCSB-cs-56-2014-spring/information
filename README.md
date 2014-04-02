@@ -1,7 +1,7 @@
 CS 56:  Advanced Applications Programming
 ===========
 
-Prerequisites
+## Prerequisites
 
 Computer Science 24 with a grade of C or better.
 
