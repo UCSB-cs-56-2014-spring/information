@@ -43,7 +43,8 @@ Java: How to Program, 9th edition, Paul J. Deitel and Harvey M. Deitel, Pearson 
 
 Pete Cappello	<cappello@cs.ucsb.edu> Harold Frank Hall, 2157 Monday: 13:30 - 14:30 Tuesday: 13:30 - 14:30
 
-Nevena Golubovic	<nevena@umail.ucsb.edu>	Trailer 936, 103 – 104 Wednesday: 13:00 - 14:00 Thursday: 12:00 - 13:00
+Nevena Golubovic	nevena@umail.ucsb.edu	PHELPS 3525	 Wednesday: 15:00 - 16:00
+             	                        	Trailer 936, 103 – 104  Friday: 15:00 - 16:00
 
 Shikant Kulkarni	skulkarni@umail.ucsb.edu	Trailer 936, 103 – 104	 Friday: 15:00 - 16:00
 
