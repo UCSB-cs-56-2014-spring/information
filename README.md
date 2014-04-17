@@ -49,7 +49,7 @@ Nevena Golubovic	nevena@umail.ucsb.edu
 * PHELPS 3525  Wednesday: 15:00 - 16:00  
 * Trailer 936, 103 – 104  Friday: 15:00 - 16:00
 
-Shikant Kulkarni	skulkarni@umail.ucsb.edu	
+Shrikant Kulkarni	skulkarni@umail.ucsb.edu	
 * Trailer 936, 103 – 104	 Friday: 15:00 - 16:00
 
 In addition to the office hours listed above, each person also will meet with you by appointment.
